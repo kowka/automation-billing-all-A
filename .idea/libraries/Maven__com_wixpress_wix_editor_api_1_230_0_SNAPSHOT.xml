@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress:wix-editor-api:1.230.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-editor-api/1.230.0-SNAPSHOT/wix-editor-api-1.230.0-20160114.153303-33.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-editor-api/1.230.0-SNAPSHOT/wix-editor-api-1.230.0-20160114.153303-33-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-editor-api/1.230.0-SNAPSHOT/wix-editor-api-1.230.0-20160114.153303-33-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.framework:hoopoe-velocity:2.860.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/hoopoe-velocity/2.860.0-SNAPSHOT/hoopoe-velocity-2.860.0-20160113.223422-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/hoopoe-velocity/2.860.0-SNAPSHOT/hoopoe-velocity-2.860.0-20160113.223422-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/hoopoe-velocity/2.860.0-SNAPSHOT/hoopoe-velocity-2.860.0-20160113.223422-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

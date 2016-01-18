@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.automation:automation-farm-services-client:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-farm-services-client/1.0.0-SNAPSHOT/automation-farm-services-client-1.0.0-20160114.145301-261.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-farm-services-client/1.0.0-SNAPSHOT/automation-farm-services-client-1.0.0-20160114.145301-261-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-farm-services-client/1.0.0-SNAPSHOT/automation-farm-services-client-1.0.0-20160114.145301-261-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

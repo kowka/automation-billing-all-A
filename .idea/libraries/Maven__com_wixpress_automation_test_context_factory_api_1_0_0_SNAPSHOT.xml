@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.automation:test-context-factory-api:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/test-context-factory-api/1.0.0-SNAPSHOT/test-context-factory-api-1.0.0-20160114.145440-870.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/test-context-factory-api/1.0.0-SNAPSHOT/test-context-factory-api-1.0.0-20160114.145440-870-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/test-context-factory-api/1.0.0-SNAPSHOT/test-context-factory-api-1.0.0-20160114.145440-870-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

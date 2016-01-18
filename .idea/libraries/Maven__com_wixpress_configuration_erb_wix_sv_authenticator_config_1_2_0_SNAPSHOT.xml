@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.configuration.erb:wix-sv-authenticator-config:1.2.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/configuration/erb/wix-sv-authenticator-config/1.2.0-SNAPSHOT/wix-sv-authenticator-config-1.2.0-20160114.063611-505.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/configuration/erb/wix-sv-authenticator-config/1.2.0-SNAPSHOT/wix-sv-authenticator-config-1.2.0-20160114.063611-505-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/configuration/erb/wix-sv-authenticator-config/1.2.0-SNAPSHOT/wix-sv-authenticator-config-1.2.0-20160114.063611-505-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

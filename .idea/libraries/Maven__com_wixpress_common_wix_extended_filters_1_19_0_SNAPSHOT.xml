@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.common:wix-extended-filters:1.19.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/common/wix-extended-filters/1.19.0-SNAPSHOT/wix-extended-filters-1.19.0-20160114.063211-1039.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/common/wix-extended-filters/1.19.0-SNAPSHOT/wix-extended-filters-1.19.0-20160114.063211-1039-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/common/wix-extended-filters/1.19.0-SNAPSHOT/wix-extended-filters-1.19.0-20160114.063211-1039-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

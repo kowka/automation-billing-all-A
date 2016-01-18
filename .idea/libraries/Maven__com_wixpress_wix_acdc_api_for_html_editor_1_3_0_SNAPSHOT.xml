@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress:wix-acdc-api-for-html-editor:1.3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-acdc-api-for-html-editor/1.3.0-SNAPSHOT/wix-acdc-api-for-html-editor-1.3.0-20160114.152924-2434.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-acdc-api-for-html-editor/1.3.0-SNAPSHOT/wix-acdc-api-for-html-editor-1.3.0-20160114.152924-2434-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-acdc-api-for-html-editor/1.3.0-SNAPSHOT/wix-acdc-api-for-html-editor-1.3.0-20160114.152924-2434-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

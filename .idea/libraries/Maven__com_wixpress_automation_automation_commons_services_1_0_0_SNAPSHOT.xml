@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.automation:automation-commons-services:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-commons-services/1.0.0-SNAPSHOT/automation-commons-services-1.0.0-20160114.151345-2235.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-commons-services/1.0.0-SNAPSHOT/automation-commons-services-1.0.0-20160114.151345-2235-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-commons-services/1.0.0-SNAPSHOT/automation-commons-services-1.0.0-20160114.151345-2235-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

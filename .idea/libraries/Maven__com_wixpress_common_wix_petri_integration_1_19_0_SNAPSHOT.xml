@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.common:wix-petri-integration:1.19.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/common/wix-petri-integration/1.19.0-SNAPSHOT/wix-petri-integration-1.19.0-20160114.063258-1403.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/common/wix-petri-integration/1.19.0-SNAPSHOT/wix-petri-integration-1.19.0-20160114.063258-1403-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/common/wix-petri-integration/1.19.0-SNAPSHOT/wix-petri-integration-1.19.0-20160114.063258-1403-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

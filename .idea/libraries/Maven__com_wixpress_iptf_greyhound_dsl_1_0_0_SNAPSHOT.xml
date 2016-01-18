@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.iptf:greyhound-dsl:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/iptf/greyhound-dsl/1.0.0-SNAPSHOT/greyhound-dsl-1.0.0-20160114.063612-661.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/iptf/greyhound-dsl/1.0.0-SNAPSHOT/greyhound-dsl-1.0.0-20160114.063612-661-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/iptf/greyhound-dsl/1.0.0-SNAPSHOT/greyhound-dsl-1.0.0-20160114.063612-661-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

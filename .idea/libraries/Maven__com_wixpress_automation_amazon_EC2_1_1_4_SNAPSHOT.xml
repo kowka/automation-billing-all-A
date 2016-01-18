@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.automation:amazon-EC2:1.1.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/amazon-EC2/1.1.4-SNAPSHOT/amazon-EC2-1.1.4-20140720.092628-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/amazon-EC2/1.1.4-SNAPSHOT/amazon-EC2-1.1.4-20140720.092628-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/amazon-EC2/1.1.4-SNAPSHOT/amazon-EC2-1.1.4-20140720.092628-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

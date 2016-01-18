@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.framework:wix-spring-mvc-extensions:2.860.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/wix-spring-mvc-extensions/2.860.0-SNAPSHOT/wix-spring-mvc-extensions-2.860.0-20160113.224213-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/wix-spring-mvc-extensions/2.860.0-SNAPSHOT/wix-spring-mvc-extensions-2.860.0-20160113.224213-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/wix-spring-mvc-extensions/2.860.0-SNAPSHOT/wix-spring-mvc-extensions-2.860.0-20160113.224213-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress:wix-sm-api:1.62.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-sm-api/1.62.0-SNAPSHOT/wix-sm-api-1.62.0-20160114.152833-2409.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-sm-api/1.62.0-SNAPSHOT/wix-sm-api-1.62.0-20160114.152833-2409-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-sm-api/1.62.0-SNAPSHOT/wix-sm-api-1.62.0-20160114.152833-2409-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

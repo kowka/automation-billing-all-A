@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.automation:automation-test-services:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-test-services/1.0.0-SNAPSHOT/automation-test-services-1.0.0-20160113.143241-3847.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-test-services/1.0.0-SNAPSHOT/automation-test-services-1.0.0-20160113.143241-3847-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/automation/automation-test-services/1.0.0-SNAPSHOT/automation-test-services-1.0.0-20160113.143241-3847-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

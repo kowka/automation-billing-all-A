@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress:wix-meta-site-manager-api:2.183.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-meta-site-manager-api/2.183.0-SNAPSHOT/wix-meta-site-manager-api-2.183.0-20160114.152647-2270.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-meta-site-manager-api/2.183.0-SNAPSHOT/wix-meta-site-manager-api-2.183.0-20160114.152647-2270-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-meta-site-manager-api/2.183.0-SNAPSHOT/wix-meta-site-manager-api-2.183.0-20160114.152647-2270-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

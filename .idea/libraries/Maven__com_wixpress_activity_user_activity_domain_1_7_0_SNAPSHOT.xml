@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.activity:user-activity-domain:1.7.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/activity/user-activity-domain/1.7.0-SNAPSHOT/user-activity-domain-1.7.0-20160114.063745-1005.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/activity/user-activity-domain/1.7.0-SNAPSHOT/user-activity-domain-1.7.0-20160114.063745-1005-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/activity/user-activity-domain/1.7.0-SNAPSHOT/user-activity-domain-1.7.0-20160114.063745-1005-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

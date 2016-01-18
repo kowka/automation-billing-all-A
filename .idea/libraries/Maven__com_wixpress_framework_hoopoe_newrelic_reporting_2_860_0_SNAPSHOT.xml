@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.framework:hoopoe-newrelic-reporting:2.860.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/hoopoe-newrelic-reporting/2.860.0-SNAPSHOT/hoopoe-newrelic-reporting-2.860.0-20160113.210003-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/hoopoe-newrelic-reporting/2.860.0-SNAPSHOT/hoopoe-newrelic-reporting-2.860.0-20160113.210003-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/framework/hoopoe-newrelic-reporting/2.860.0-SNAPSHOT/hoopoe-newrelic-reporting-2.860.0-20160113.210003-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

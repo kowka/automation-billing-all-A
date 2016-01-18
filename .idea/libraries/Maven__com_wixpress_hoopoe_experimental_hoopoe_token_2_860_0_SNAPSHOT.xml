@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress.hoopoe.experimental:hoopoe-token:2.860.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/hoopoe/experimental/hoopoe-token/2.860.0-SNAPSHOT/hoopoe-token-2.860.0-20160113.223523-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/hoopoe/experimental/hoopoe-token/2.860.0-SNAPSHOT/hoopoe-token-2.860.0-20160113.223523-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/hoopoe/experimental/hoopoe-token/2.860.0-SNAPSHOT/hoopoe-token-2.860.0-20160113.223523-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

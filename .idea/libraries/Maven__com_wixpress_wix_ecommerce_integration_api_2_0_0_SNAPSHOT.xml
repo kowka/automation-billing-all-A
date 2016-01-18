@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.wixpress:wix-ecommerce-integration-api:2.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-ecommerce-integration-api/2.0.0-SNAPSHOT/wix-ecommerce-integration-api-2.0.0-20151120.230011-1312.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-ecommerce-integration-api/2.0.0-SNAPSHOT/wix-ecommerce-integration-api-2.0.0-20151120.230011-1312-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/wixpress/wix-ecommerce-integration-api/2.0.0-SNAPSHOT/wix-ecommerce-integration-api-2.0.0-20151120.230011-1312-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
